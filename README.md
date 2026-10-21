@@ -1,4 +1,4 @@
-# Cards for gridpacks production for ttALPs
+# Cards for gridpack production for ttALPs
 
 Gridpacks are generated using the [`genproductions_scripts`](https://gitlab.cern.ch/cms-gen/genproductions_scripts) repository, using cards stored in the [`genproductions_cards`](https://gitlab.cern.ch/cms-gen/genproductions_cards) repository (for central requests).
 
